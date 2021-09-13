@@ -1,0 +1,1 @@
+(()=>{"use strict";window.onload=function(){console.log("I am mainPage, and I am working!"),document.createElement("h1").innerHTML="Boston's Best Bakery",document.createElement("p").innerText="Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum"}})();
